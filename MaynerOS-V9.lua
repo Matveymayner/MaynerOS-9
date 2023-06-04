@@ -97,7 +97,6 @@ drawButton(24, 2, 12, 3, "Reboot", 0xFFFFFF, 0x555555)
 drawButton(38, 2, 15, 3, "Random Number", 0xFFFFFF, 0x555555)
 drawButton(55, 2, 12, 3, "Delete OS", 0xFFFFFF, 0x555555)
 drawButton(69, 2, 12, 3, "Blue Screen", 0xFFFFFF, 0x555555)
-drawButton(69, 5, 12, 3, "Back to CMD", 0xFFFFFF, 0x555555)
 
 -- Выводим кнопки игр
 drawButton(10, 5, 12, 3, "Flappy Bird", 0xFFFFFF, 0x555555)
